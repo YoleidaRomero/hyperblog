@@ -2,3 +2,5 @@ Este es mi primer Git
 mi nombre es Yoleida
 y estoy tratando de aprender
 estoy agregando una nueva <i class="fa fa-line-chart" aria-hidden="true"></i>
+
+Comenzamos a trabajar con html y css
